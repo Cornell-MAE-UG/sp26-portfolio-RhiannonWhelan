@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rhiannon Whelan - Portfolio
+title: Projects
 permalink: /projects/
 ---
 
