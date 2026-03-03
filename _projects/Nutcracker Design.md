@@ -2,7 +2,6 @@
 layout: project
 title: Nutcracker Design
 description: design of a feasible nutcracker
-technologies: [SolidWorks, Machining]
 image: /assets/images/Nutcracker design.JPG
 ---
 
