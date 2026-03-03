@@ -36,4 +36,5 @@ Calculations/Thought Process:
 8. Now that I had DisAE = 300mm and DisBE = 75mm, I was able to use the pythagorean theorem to find DisAB. I found that the handle length of my nutcracker (DisAB) = 309.23 mm
 
 Usability of Nutcracker:
+I designed a nutcracker with a handle length of 309.23mm. The mechanical advantage of this length is MA = 309.23mm/50mm= 6.18. If cracking force is 2177.4 N, then Finput = 2177.4/6.18 = 352.3 N. This means that my design requires an input force that is high, near max effort for many users. Therefore, my assessment of the design is that although the nutcracker is functional, it could be demanding for some users, so it is not universally accessible. 
 
