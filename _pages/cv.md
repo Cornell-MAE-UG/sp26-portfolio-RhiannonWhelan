@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rhiannon Whelan - Curriculum Vitae
+title: CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
