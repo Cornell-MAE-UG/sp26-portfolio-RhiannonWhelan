@@ -3,7 +3,7 @@ layout: project
 title: Non-Rigid Nutcracker
 description: 
 technologies: 
-image: /assets/images/Hw 12 Nutcracker photo.JPG
+image: /assets/images/hw-12-photo.JPG
 ---
 a)
 Assumptions:
