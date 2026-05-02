@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Radio CAD Rendering
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Non-Rigid Nutcracker
+description: 
+technologies: 
 image: /assets/images/radio-machine-cad.jpg
 ---
 
