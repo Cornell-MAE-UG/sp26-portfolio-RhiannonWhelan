@@ -3,7 +3,7 @@ layout: project
 title: Non-Rigid Nutcracker
 description: 
 technologies: 
-image: /assets/images/hw-12-photo.JPG
+image: /assets/images/hw-12-photo.JPG 
 ---
 a)
 Assumptions:
@@ -54,6 +54,8 @@ round up to 0.008m=h
 Final Design: 
 Material: stainless steel (cold-rolled) with E=193 GPa
 cross section: b=4mm, h=8mm
+
+See gradescope submission for more detail
 
 
 
